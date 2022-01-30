@@ -1,0 +1,12 @@
+.container {
+    align-items: center;
+    justify-content: center;
+}
+header {
+    background-color: aqua;
+    text-align: center;
+}
+#my-goal{
+    background-color: aquamarine;
+    text-align: center;
+}
